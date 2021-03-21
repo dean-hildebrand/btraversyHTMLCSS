@@ -44,7 +44,7 @@
 
 .btn-light,
 .bg-light {
-  background: #f4f4f4;
+  background: #cccaca;
   color: #fff;
 }
 
@@ -139,7 +139,6 @@
 }
 
 /* Flex grid */
-
 .flex-grid .row {
   display: flex;
   flex-wrap: wrap;
