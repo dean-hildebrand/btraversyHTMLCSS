@@ -85,14 +85,14 @@ body {
 
 #page-1 p {
   transform: translateX(-1500px);
-  animation: paragraph var(--animate-speed) forwards ease-in;
+  animation: paragraph var(--animate-speed) forwards ease-in 2s;
 }
 
 /* Keyframes */
 
 @keyframes heading {
   to {
-    transform: translateY(0);
+    transform: translateY(0);  
   }
 }
 
